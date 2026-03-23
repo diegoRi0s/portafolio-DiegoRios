@@ -19,18 +19,30 @@ print(Profile().mission)
 "He migrado mi portafolio a una terminal de sistemas embebidos. Como apasionado de la electrónica y el código, creo que la mejor forma de mostrar mi trabajo es con la misma tecnología que uso para crear..."
 ---
 
+---
+
 ## 🛠️ CORE_CAPABILITIES (Tech Stack)
 
-### **Languages & Software**
+### **Languages & Backend**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-CC1F35?style=for-the-badge&logo=solidworks&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-### **Hardware & Networking**
+### **Frontend Development**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### **Hardware & Design**
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-CC1F35?style=for-the-badge&logo=solidworks&logoColor=white)
+
+### **Cybersecurity, Networking & Ops**
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ---
@@ -72,7 +84,7 @@ print(Profile().mission)
 ---
 
 ## 📡_CONTACT_CONNECTION
-[LinkedIn](TU_LINK_AQUI) | [Email](mailto:diegotrdg.ex@gmail.com) | [Portfolio_Web](TU_URL_DE_GITHUB_PAGES)
+[LinkedIn](TU_LINK_AQUI) | [Email](mailto:diegotrdg.ex@gmail.com) | [Portfolio_Web](https://diegori0s.github.io/portafolio-DiegoRios/)
 
 ---
 layout: default
