@@ -49,7 +49,7 @@ print(Profile().mission)
 
 ## 🛰️ DEPLOYED_PROJECTS (Highlight)
 
-### 🏎️ [01] Telemetry System - Formula E
+### 🏎️ [01] Sistema de Telemetría - Formula E
 > **Status:** `STABLE`
 > Desarrollo de un sistema de monitoreo en tiempo real para un monoplaza eléctrico universitario. Visualización de datos críticos mediante Python.
 
@@ -57,14 +57,13 @@ print(Profile().mission)
 > **Status:** `OPERATIONAL`
 > Red de sensores de humedad y temperatura en cultivos. Comunicación de largo alcance vía protocolo **LoRa**, gestionado por una **Raspberry Pi 5**.
 
-### 🎮 [03] SimRacing High-Precision Wheel
+### 🎮 [03] Volante de SIM-Racing
 > **Status:** `BUILT`
 > Periférico de simulación profesional integrado con **ESP32**, procesando señales de alta velocidad para una experiencia inmersiva.
 
 ### 🏠 [04] Domótica & Alexa Integration
 > **Status:** `COMPLETE`
 > Automatización residencial integral: control de iluminación, ventanas y electrodomésticos mediante comandos de voz.
-
 ---
 
 ## ⚡ ACTIVITY_LOG (Experience)
@@ -74,13 +73,11 @@ print(Profile().mission)
     * *Event:* Incremento de matrículas mediante exhibiciones de **Robots Minisumo**.
 * **[MAINTENANCE_LOG]** Soporte técnico y monitoreo remoto.
     * *Tools:* TeamViewer, AnyDesk, Gestión de IPs Estáticas.
-
 ---
 
 ## 🎓 EDUCATION_HISTORY
 * **Ingeniería en Redes y Telecomunicaciones** | Universidad Politécnica de Juventino Rosas (Trunca).
 * **Nivel de Inglés:** B2 (Technical Proficiency).
-
 ---
 
 ## 📡_CONTACT_CONNECTION
