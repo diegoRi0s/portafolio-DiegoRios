@@ -61,7 +61,7 @@ print(Profile().mission)
 > **Status:** `BUILT`
 > Periférico de simulación profesional integrado con **ESP32**, procesando señales de alta velocidad para una experiencia inmersiva.
 
-### 🏠 [04] Domótica & Alexa Integration
+### 🏠 [04] Integración con Alexa  en proyecto de domótica 
 > **Status:** `COMPLETE`
 > Automatización residencial integral: control de iluminación, ventanas y electrodomésticos mediante comandos de voz.
 ---
