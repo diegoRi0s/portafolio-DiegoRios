@@ -1,5 +1,3 @@
-layout: default
-
 # 📟 [SYSTEM_STATUS: ONLINE] - Diego Uriel Roman Rios
 ### > Embedded Systems & IoT Explorer | Python Developer | Cybersecurity Enthusiast
 
@@ -77,3 +75,7 @@ print(Profile().mission)
 [LinkedIn](TU_LINK_AQUI) | [Email](mailto:diegotrdg.ex@gmail.com) | [Portfolio_Web](TU_URL_DE_GITHUB_PAGES)
 
 ---
+layout: default
+---
+
+
