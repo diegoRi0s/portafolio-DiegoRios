@@ -52,7 +52,6 @@ print(Profile().mission)
 ### 🏎️ [01] Sistema de Telemetría - Formula E
 > **Status:** `STABLE`
 > Desarrollo de un sistema de monitoreo en tiempo real para un monoplaza eléctrico universitario. Visualización de datos críticos mediante Python.
-> [Ver archivos del proyecto](/workspaces/portafolio-DiegoRios/IoT&SistemasEmbebidos/SitemaTelemetríaFormulaE)
 
 ### 🚜 [02] Smart Agro-Node (LoRa)
 > **Status:** `OPERATIONAL`
@@ -61,7 +60,6 @@ print(Profile().mission)
 ### 🎮 [03] Volante de SIM-Racing
 > **Status:** `BUILT`
 > Periférico de simulación profesional integrado con **ESP32**, procesando señales de alta velocidad para una experiencia inmersiva.
-> [Ver archivos del proyecto](/workspaces/portafolio-DiegoRios/IoT&SistemasEmbebidos/VolanteSimRacingDIY)
 
 ### 🏠 [04] Integración con Alexa  en proyecto de domótica 
 > **Status:** `COMPLETE`
@@ -74,7 +72,6 @@ print(Profile().mission)
 * **[CURRENT_TASK]** Docente de Electrónica @ Instituto Enlace Empresarial.
     * *Sub-task:* Diseñando el nuevo plan de estudios de Robótica e IoT.
     * *Event:* Incremento de matrículas mediante exhibiciones de **Robots Minisumo**.
-> [Ver archivos del proyecto](/workspaces/portafolio-DiegoRios/IoT&SistemasEmbebidos/RobotsMinisumo)
 
 * **[MAINTENANCE_LOG]** Soporte técnico y monitoreo remoto.
     * *Tools:* TeamViewer, AnyDesk, Gestión de IPs Estáticas.
