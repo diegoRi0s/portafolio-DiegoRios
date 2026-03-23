@@ -1,3 +1,5 @@
+layout: default
+
 # 📟 [SYSTEM_STATUS: ONLINE] - Diego Uriel Roman Rios
 ### > Embedded Systems & IoT Explorer | Python Developer | Cybersecurity Enthusiast
 
