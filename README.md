@@ -16,7 +16,7 @@ class Profile:
 print(Profile().mission)
 # Output: Merging Physical World with Digital Logic
 ```
-
+"He migrado mi portafolio a una terminal de sistemas embebidos. Como apasionado de la electrónica y el código, creo que la mejor forma de mostrar mi trabajo es con la misma tecnología que uso para crear..."
 ---
 
 ## 🛠️ CORE_CAPABILITIES (Tech Stack)
