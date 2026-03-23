@@ -1,6 +1,3 @@
-# portafolio-DiegoRios
-Portafolio de Proyectos
-
 # Portafolio Profesional: Diego Uriel Roman Rios
 ### Especialista en Sistemas Embebedos | IoT | Python Junior
 
