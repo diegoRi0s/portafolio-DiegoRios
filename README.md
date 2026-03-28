@@ -83,6 +83,13 @@ print(Profile().mission)
 * **Ingeniería en Redes y Telecomunicaciones** | Universidad Politécnica de Juventino Rosas **Status:** `STABLE`.
 * **Nivel de Inglés:** B2 (Technical Proficiency).
 ---
+---
+<p align="center">
+  <a href="CV_Diego_Rios.pdf" download>
+    <img src="https://img.shields.io/badge/DESCARGAR_CV_PDF-00FF00?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" alt="Descargar CV">
+  </a>
+</p>
+---
 
 ## 📡_CONTACT_CONNECTION
 [LinkedIn](https://www.linkedin.com/in/diego-rios-9482923b9/?skipRedirect=true) | [Email](mailto:diegotrdg.ex@gmail.com) | [Portfolio_Web](https://diegori0s.github.io/portafolio-DiegoRios/)
