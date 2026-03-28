@@ -77,6 +77,10 @@ print(Profile().mission)
   <img src="Recursos/RobotsSumo/RobotUriel.gif" width="150" alt="Robot Minisumo de Alumno">
   </p>
 
+  <p align="left">
+  <img src="Recursos/RobotsSumo/Robot2.gif" width="150" alt="Robot Minisumo de Alumno 2">
+  </p>
+
 * **[MAINTENANCE_LOG]** Soporte técnico y monitoreo remoto.
     * *Tools:* TeamViewer, AnyDesk, Gestión de Redes Corporativas.
 ---
