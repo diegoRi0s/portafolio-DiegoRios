@@ -74,7 +74,7 @@ print(Profile().mission)
     * *Sub-task:* Diseñando el nuevo plan de estudios de Robótica e IoT.
     * *Event:* Incremento de matrículas mediante exhibiciones de **Robots Minisumo**.
   <p align="center">
-  <img src="Recursos/RobotsSumo/RobotUriel.gif" width="300" alt="Robot Minisumo de Alumno">
+  <img src="Recursos/RobotsSumo/RobotUriel.gif" width="150" alt="Robot Minisumo de Alumno">
   </p>
 
 * **[MAINTENANCE_LOG]** Soporte técnico y monitoreo remoto.
