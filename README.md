@@ -53,6 +53,16 @@ print(Profile().mission)
 ### 🏎️ [01] Sistema de Telemetría - Formula E
 > **Status:** `STABLE`
 > Desarrollo de un sistema de monitoreo en tiempo real para un monoplaza eléctrico universitario. Visualización de datos críticos mediante Python.
+### 🖥️ Interfaz de Sistemas de Monitoreo UPJR Racing Formula E
+
+> **Dashboard Maestro:** Control total de actuadores y visualización de tendencias de red.
+<p align="left">
+  <img src="Recursos/TelemetriaFormulaE/images/Home.png" width="45%" alt="Home Dashboard">
+  <img src="Recursos/TelemetriaFormulaE/images/AvsF.png" width="45%" alt="Encendido de Valvula 1">
+  <img src="Recursos/TelemetriaFormulaE/images/Sectores.png" width="45%" alt="Encendido de Valvula 2">
+  <img src="Recursos/TelemetriaFormulaE/images/Tiempos.png" width="45%" alt="Valvulas apagadas">
+</p>
+
 
 ### 🚜 [02] Smart Agro-Node (LoRa)
 > **Status:** `OPERATIONAL`
