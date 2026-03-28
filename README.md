@@ -81,7 +81,7 @@ print(Profile().mission)
 
 ## 🎓 EDUCATION_HISTORY
 * **Ingeniería en Redes y Telecomunicaciones**
-* > **Universidad Politécnica de Juventino Rosas **Status:** `IN-PROCESS`.**
+> **Universidad Politécnica de Juventino Rosas **Status:** `IN-PROCESS`.**
 *  **CECYTEG IRAPUATO III**
 > **Carrera:** Técnico en Producción Industrial
 > **Status:** `GRADUATED`
