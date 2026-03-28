@@ -80,12 +80,14 @@ print(Profile().mission)
 ---
 
 ## 🎓 EDUCATION_HISTORY
-* **Ingeniería en Redes y Telecomunicaciones** | Universidad Politécnica de Juventino Rosas **Status:** `STABLE`.
-* **Nivel de Inglés:** B2 (Technical Proficiency).
-
-* ### **CECYTEG IRAPUATO III**
+* **Ingeniería en Redes y Telecomunicaciones**
+* > **Universidad Politécnica de Juventino Rosas **Status:** `STABLE`.**
+* * ### **CECYTEG IRAPUATO III**
 > **Carrera:** Técnico en Producción Industrial
 > **Status:** `GRADUATED`
+* **Nivel de Inglés:** B2 (Technical Proficiency).
+
+
 ---
 ---
 <p align="center">
