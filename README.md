@@ -93,7 +93,7 @@ print(Profile().mission)
 
 ---
 ---
-<p align="center">
+<p align="left">
   <a href="CV_Diego_Rios.pdf" download>
     <img src="https://img.shields.io/badge/DESCARGAR_CV_PDF-00FF00?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" alt="Descargar CV">
   </a>
