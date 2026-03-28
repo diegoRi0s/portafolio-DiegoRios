@@ -73,7 +73,7 @@ print(Profile().mission)
 * **[CURRENT_TASK]** Docente de Electrónica @ Instituto Enlace Empresarial.
     * *Sub-task:* Diseñando el nuevo plan de estudios de Robótica e IoT.
     * *Event:* Incremento de matrículas mediante exhibiciones de **Robots Minisumo**.
-  <p align="center">
+  <p align="left">
   <img src="Recursos/RobotsSumo/RobotUriel.gif" width="150" alt="Robot Minisumo de Alumno">
   <img src="Recursos/RobotsSumo/Robot2.gif" width="150" alt="Robot Minisumo de Alumno 2">
   </p>
