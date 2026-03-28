@@ -75,9 +75,6 @@ print(Profile().mission)
     * *Event:* Incremento de matrículas mediante exhibiciones de **Robots Minisumo**.
   <p align="center">
   <img src="Recursos/RobotsSumo/RobotUriel.gif" width="150" alt="Robot Minisumo de Alumno">
-  </p>
-
-  <p align="left">
   <img src="Recursos/RobotsSumo/Robot2.gif" width="150" alt="Robot Minisumo de Alumno 2">
   </p>
 
