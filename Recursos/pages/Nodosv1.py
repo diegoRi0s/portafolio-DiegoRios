@@ -29,10 +29,9 @@ temp_aire = np.random.uniform(24.0, 32.0)
 hum_aire = np.random.uniform(15.0, 35.0)
 temp_tierra = np.random.uniform(18.0, 22.0)
 hum_tierra = np.random.uniform(40.0, 60.0)
-caudal = np.random.uniform(1.5, 3.0) # Litros por minuto
+caudal = np.random.uniform(1.5, 3.0) 
 tiempo_riego = "45 min"
-dias_siembra = 42 # Días desde que se plantó
-
+dias_siembra = 42 
 
 col1, col2, col3 = st.columns(3)
 col4, col5, col6 = st.columns(3)
@@ -64,13 +63,12 @@ st.subheader("📊 Histórico Mensual de Humedad del Suelo (Día a Día)")
 
 today = datetime.now()
 dates = [today - timedelta(days=x) for x in range(30)]
-dates.reverse() # Ordenar de la más antigua a la más reciente
+dates.reverse() 
 
 
-base_hum = np.linspace(65, 50, 20) # Primeros 20 días secándose
-after_irrigation = np.linspace(75, 60, 10) # 10 días después de un riego
+base_hum = np.linspace(65, 50, 20) 
+after_irrigation = np.linspace(75, 60, 10)
 monthly_hum_values = np.concatenate((base_hum, after_irrigation))
-# Añadir un poco de ruido aleatorio para que se vea real
 monthly_hum_values += np.random.normal(0, 2, 30) 
 
 

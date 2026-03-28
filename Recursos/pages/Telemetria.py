@@ -6,7 +6,7 @@ import plotly.graph_objects as go
 # 1. Configuración de página
 st.set_page_config(page_title="Formula E Live Telemetry", layout="wide")
 
-# 2. 🎨 ESTILO CLEAN (SIN RECUADROS, SIN SOMBRAS)
+
 st.markdown("""
     <style>
     /* Fondo blanco estándar de Streamlit */
@@ -43,11 +43,11 @@ st.title("⚡ FORMULA E LIVE TELEMETRY | GEN3")
 st.markdown("### **Driver:** Diego Rios | **Team:** Lobos UPJR Racing 🏎️")
 st.divider()
 
-# --- DATOS ---
+
 speed = 78 
 battery_soc = 42.5
 
-# --- FILA 1: VELOCÍMETRO Y MÉTRICAS ---
+
 col_gauge, col_m1, col_m2, col_m3 = st.columns([1.5, 1, 1, 1])
 
 with col_gauge:
@@ -83,8 +83,9 @@ with col_m2:
     st.metric("BATTERY (SOC)", f"{battery_soc}%", "-0.8% / LAP", delta_color="inverse")
     st.write("**DRIVE MODE**")
     st.success("ECO-REGEN ACTIVE")
+    st.info("🔋 Regeneración: 350 kW")
 
-# --- FILA 2: GRÁFICA DE PEDALES ---
+
 st.divider()
 st.subheader("Telemetría de Pedales (Acelerador vs Freno)")
 
@@ -126,9 +127,9 @@ def color_pedal_val(val):
 
 st.table(sectores.style.set_properties(**{'text-align': 'left'}))
 
-# --- FILA 4: TABLA DE TIEMPOS ---
+
 st.divider()
-st.subheader("🏁 Tiempos: Últimas 5 Vueltas")
+st.subheader("Tiempos: Últimas 5 Vueltas")
 laps_data = {
     "Lap": [24, 23, 22, 21, 20],
     "Lap Time": ["3:44.205", "3:44.118", "3:44.590", "3:43.902", "3:45.002"],
