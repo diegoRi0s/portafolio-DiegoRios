@@ -2,7 +2,7 @@ import streamlit as st
 
 # 1. CONFIGURACIÓN DE LA PÁGINA
 st.set_page_config(
-    page_title="Lobos UPJR - Dashboard Hub",
+    page_title="Dashboard de Proyectos | Diego Ríos",
     page_icon="🐺",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -45,8 +45,8 @@ st.markdown("""
 # 3. CABECERA DE BIENVENIDA
 st.markdown("""
     <div class="welcome-box">
-        <h1>🐺 LOBOS UPJR | Proyectos de Ingeniería</h1>
-        <p>Hub Centralizado de Telemetría, Control e IoT Industrial</p>
+        <h1>🐺 Diego Uriel Roman Rios | Proyectos de Ingeniería</h1>
+        <p>Hub de Proyectos adaptados a una visualización interactiva</p>
     </div>
     """, unsafe_allow_html=True)
 
@@ -69,24 +69,26 @@ with col_intro:
              caption="Sistemas Embebidos e Ingeniería Electrónica", use_container_width=True)
 
 with col_nav:
-    st.info("### 📂 Selecciona una Terminal")
+    st.info("### 📂 Selecciona un Proyecto")
     st.write("Haz clic en un botón para saltar directamente al dashboard:")
+    
+    # IMPORTANTE: Usamos rutas relativas ("pages/archivo.py") para evitar errores de Windows y asegurar compatibilidad
     
     # BOTÓN PROYECTO 1: AGRO-IOT
     if st.button("🌱 Monitor de Cultivo (Agro-IoT)"):
-        st.switch_page("C:\\Users\\dieco\\Documents\\Proyectos\\Portafolio\\portafolio-DiegoRios\\Recursos\\Proyectos\\pages\\Nodosv1.py") # Asegúrate que el nombre coincida
+        st.switch_page("pages/Nodosv1.py")
         
     # BOTÓN PROYECTO 2: MAESTRO
     if st.button("🖥️ Sistema Maestro de Control"):
-        st.switch_page("C:\Users\dieco\Documents\Proyectos\Portafolio\portafolio-DiegoRios\Recursos\Proyectos\pages\ControlMaestro.py")
+        st.switch_page("pages/ControlMaestro.py")
         
     # BOTÓN PROYECTO 3: FORMULA E
     if st.button("🏎️ Telemetría Formula E (AHR)"):
-        st.switch_page("C:\\Users\\dieco\\Documents\\Proyectos\\Portafolio\\portafolio-DiegoRios\\Recursos\\Proyectos\\pages\\Telemetria.py")
+        st.switch_page("pages/Telemetria.py")
 
     # BOTÓN PROYECTO 4: CIRCUITO
     if st.button("🗺️ Telemetría sobre Circuito (AHR)"):
-        st.switch_page("C:\\Users\\dieco\\Documents\\Proyectos\\Portafolio\\portafolio-DiegoRios\\Recursos\\Proyectos\\pages\\Circuito.py")
+        st.switch_page("pages/Circuito.py")
 
 
 st.divider()
