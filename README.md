@@ -58,6 +58,24 @@ print(Profile().mission)
 > **Status:** `OPERATIONAL`
 > Red de sensores de humedad y temperatura en cultivos. Comunicación de largo alcance vía protocolo **LoRa**, gestionado por una **Raspberry Pi 5**.
 
+### 🖥️ Interfaz del Ecosistema Agro-IoT
+
+> **Dashboard Maestro:** Control total de actuadores y visualización de tendencias de red.
+<p align="left">
+  <img src="Recursos/Smart-AgroNode/Images/ControlCentral.png" width="45%" alt="Home Dashboard">
+  <img src="Recursos/Smart-AgroNode/Images/EncendidoValvula1.png" width="45%" alt="Encendido de Valvula 1">
+  <img src="Recursos/Smart-AgroNode/Images/ValvulaB.png" width="45%" alt="Encendido de Valvula 2">
+  <img src="Recursos/Smart-AgroNode/Images/Valvulas apagadas.png" width="45%" alt="Valvulas apagadas">
+  <img src="Recursos/Smart-AgroNode/Images/LogSistema.png" width="45%" alt="Log del Sistema">
+  <img src="Recursos/Smart-AgroNode/Images/Graficas.png" width="45%" alt="Gráfica de temperatura y humedad">
+</p>
+
+<p align="left">
+  <img src="Recursos/Smart-AgroNode/Images/Nodo.png" width="45%" alt="Monitor Nodo">
+</p>
+
+
+
 ### 🎮 [03] Volante de SIM-Racing
 > **Status:** `BUILT`
 > Periférico de simulación profesional integrado con **ESP32**, procesando señales de alta velocidad para una experiencia inmersiva.
