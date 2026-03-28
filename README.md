@@ -53,37 +53,11 @@ print(Profile().mission)
 ### 🏎️ [01] Sistema de Telemetría - Formula E
 > **Status:** `STABLE`
 > Desarrollo de un sistema de monitoreo en tiempo real para un monoplaza eléctrico universitario. Visualización de datos críticos mediante Python.
-### 🖥️ Interfaz de Sistemas de Monitoreo UPJR Racing Formula E
-
-> **Dashboard Maestro:** Control total de actuadores y visualización de tendencias de red.
-<p align="left">
-  <img src="Recursos/TelemetriaFormulaE/images/Home.png" width="45%" alt="Home Dashboard">
-  <img src="Recursos/TelemetriaFormulaE/images/AvsF.png" width="45%" alt="Encendido de Valvula 1">
-  <img src="Recursos/TelemetriaFormulaE/images/Sectores.png" width="45%" alt="Encendido de Valvula 2">
-  <img src="Recursos/TelemetriaFormulaE/images/Tiempos.png" width="45%" alt="Valvulas apagadas">
-</p>
 
 
 ### 🚜 [02] Smart Agro-Node (LoRa)
 > **Status:** `OPERATIONAL`
 > Red de sensores de humedad y temperatura en cultivos. Comunicación de largo alcance vía protocolo **LoRa**, gestionado por una **Raspberry Pi 5**.
-
-### 🖥️ Interfaz del Ecosistema Agro-IoT
-
-> **Dashboard Maestro:** Control total de actuadores y visualización de tendencias de red.
-<p align="left">
-  <img src="Recursos/Smart-AgroNode/Images/ControlCentral.png" width="45%" alt="Home Dashboard">
-  <img src="Recursos/Smart-AgroNode/Images/EncendidoValvula1.png" width="45%" alt="Encendido de Valvula 1">
-  <img src="Recursos/Smart-AgroNode/Images/ValvulaB.png" width="45%" alt="Encendido de Valvula 2">
-  <img src="Recursos/Smart-AgroNode/Images/Valvulas apagadas.png" width="45%" alt="Valvulas apagadas">
-  <img src="Recursos/Smart-AgroNode/Images/LogSistema.png" width="45%" alt="Log del Sistema">
-  <img src="Recursos/Smart-AgroNode/Images/Graficas.png" width="45%" alt="Gráfica de temperatura y humedad">
-</p>
-
-<p align="left">
-  <img src="Recursos/Smart-AgroNode/Images/Nodo.png" width="45%" alt="Monitor Nodo">
-</p>
-
 
 
 ### 🎮 [03] Volante de SIM-Racing
@@ -95,7 +69,10 @@ print(Profile().mission)
 > Automatización residencial integral: control de iluminación, ventanas y electrodomésticos mediante comandos de voz.
 
 ---
+## 🌐 Demo en Vivo
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://portafolio-diegorios-proyectos.streamlit.app/)
 
+---
 ## ⚡ ACTIVITY_LOG (Experience)
 
 * **[CURRENT_TASK]** Docente de Electrónica @ Instituto Enlace Empresarial.
