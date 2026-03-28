@@ -70,7 +70,10 @@ print(Profile().mission)
 
 ---
 ## 🌐 Demo en Vivo
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://portafolio-diegorios-proyectos.streamlit.app/)
+
+<a href="https://portafolio-diegorios-proyectos.streamlit.app/" target="_blank">
+  <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App" width="250">
+</a>
 
 ---
 ## ⚡ ACTIVITY_LOG (Experience)
