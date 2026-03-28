@@ -76,7 +76,7 @@ print(Profile().mission)
     * ![Ver Diagrama y Codigo](Recursos/RobotsSumo/DiagramaSumo.png)
 
 * **[MAINTENANCE_LOG]** Soporte técnico y monitoreo remoto.
-    * *Tools:* TeamViewer, AnyDesk, Gestión de IPs Estáticas.
+    * *Tools:* TeamViewer, AnyDesk, Gestión de Redes Corporativas.
 ---
 
 ## 🎓 EDUCATION_HISTORY
